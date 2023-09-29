@@ -28,7 +28,7 @@ It was developed with JavaScript, Html, and Css in React Js
 npx create-react-app hola-mundo
 ```
 
-2. <font color="#a5d6ff !important"> Edit App.js </font>
+2. Edit App.js
 * This file contains the main content in the function App():
 
 ```python
