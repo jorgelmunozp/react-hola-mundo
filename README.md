@@ -22,13 +22,13 @@ It was developed with JavaScript, Html, and Css in React Js
 
 ### `Process`
 
-1. Create a new app
+1. <font color="#a5d6ff"> Create a new app </font>
 * Use command: 
 ```bash
 npx create-react-app my-app
 ```
 
-2. Edit App.js
+2. <font color="#a5d6ff"> Edit App.js </font>
 * This file contains the main content in the function App():
 
 ```python
