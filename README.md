@@ -56,7 +56,7 @@ function App() {
 
 ***
 
-## Autor
+## Authors
 
-| [<img src="https://avatars.githubusercontent.com/u/101136356?s=400&v=4" width=115><br><sub>Jorge Luis Muñoz</sub>](https://github.com/jorgelmunozp) |
-| :---: |
+| [<img src="https://avatars.githubusercontent.com/u/101136356?s=400&v=4" width=115><br><sub>Jorge Luis Muñoz</sub>](https://github.com/jorgelmunozp) | [<img src="https://avatars.githubusercontent.com/u/109540980?v=4" width=115><br><sub>Hárgomo</sub>](https://github.com/hargomo) |
+| :---: | :---: |
