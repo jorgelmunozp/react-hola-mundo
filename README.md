@@ -65,6 +65,6 @@ function App() {
 
 ## License
 
-Hola mundo is [MIT licensed](/docs/LICENSE-docs.txt)
+Hola mundo is [MIT licensed](/docs/LICENSE.txt).
 
-The Docusaurus documentation (e.g., .md files in the /docs folder) is Creative Commons licensed.
+The Docusaurus documentation (e.g., .md files in the /docs folder) is [Creative Commons licensed](/docs/LICENSE-docs.txt).
