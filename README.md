@@ -1,11 +1,11 @@
-# Hola Mundo | React App
+<h1 align="center"> Hola Mundo | React App </h1>
 
 Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
 
 ***
 
 ### Preview
-![Image text](/docs/hola-mundo.png)
+![Hola mundo](/docs/hola-mundo.png)
 
 ***
 
