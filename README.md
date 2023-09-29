@@ -2,6 +2,8 @@
 
 Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
 
+***
+
 ### Preview
 ![Image text](/docs/hola-mundo.png)
 
@@ -23,6 +25,19 @@ npx create-react-app my-app
 
 2. Edit App.js\
 * This file contains the main content
+
+```react
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
 
 ### `npm test`
 
