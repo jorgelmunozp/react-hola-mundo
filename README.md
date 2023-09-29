@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#a5d6ff"> Hola Mundo | React App </h1>
+<h1 align="center" style="color:#a5d6ff !important"> Hola Mundo | React App </h1>
 
 Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
 
