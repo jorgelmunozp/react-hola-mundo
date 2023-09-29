@@ -24,7 +24,7 @@ npx create-react-app my-app
 ```
 
 2. Edit App.js\
-* This file contains the main content
+* This file contains the main content in the function App()
 
 ```python
 function App() {
