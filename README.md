@@ -10,7 +10,7 @@
 ***
 
 ### Preview
-![Hola mundo](/docs/hola-mundo.png)
+![Preview](/docs/preview.png)
 
 ***
 
