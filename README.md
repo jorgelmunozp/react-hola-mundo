@@ -6,6 +6,7 @@ Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
   <img src="https://img.shields.io/badge/JavaScript-f1e05a">
   <img src="https://img.shields.io/badge/status-close-ff3333">
 </p>
+
 ***
 
 ### Preview
