@@ -13,7 +13,7 @@ Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
 
 This project consists of the development of a Hello World application 
 
-It was developed with JavaScript in React Js
+It was developed with JavaScript, Html, and Css in React Js
 
 ### `Process`
 
@@ -24,7 +24,7 @@ npx create-react-app my-app
 ```
 
 2. Edit App.js
-* This file contains the main content in the function App()
+* This file contains the main content in the function App():
 
 ```python
 function App() {
