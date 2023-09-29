@@ -26,17 +26,27 @@ npx create-react-app my-app
 2. Edit App.js\
 * This file contains the main content
 
-```react
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```python
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Hola <code>Mundo</code> !
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          React Js
+        </a>
+      </header>
+    </div>
+  );
+}
 ```
 
 ### `npm test`
