@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/status-close-ff3333">
 </p>
 
-Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
+* Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
 
 ***
 
@@ -23,13 +23,13 @@ It was developed with JavaScript, Html, and Css in React Js
 ### `Process`
 
 1. Create a new app
-* Use command: 
+Use command: 
 ```bash
 npx create-react-app hola-mundo
 ```
 
 2. Edit App.js
-* This file contains the main content in the function App():
+This file contains the main content in the function App():
 
 ```python
 function App() {
