@@ -1,5 +1,9 @@
 <h1 align="center"> Hola Mundo | React App </h1>
 
+<p align="center">
+   <img src="https://img.shields.io/badge/JavaScript-f1e05a">
+</p>
+
 Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
 
 ***
