@@ -22,10 +22,13 @@ It was developed with JavaScript, Html, and Css in React Js
 
 ### `Process`
 
-1. <font color="#a5d6ff"> Create a new app </font>
+1. Create a new app
 * Use command: 
+
+<font color="#a5d6ff"> Use command: </font>
+
 ```bash
-npx create-react-app my-app
+npx create-react-app hola-mundo
 ```
 
 2. <font color="#a5d6ff"> Edit App.js </font>
