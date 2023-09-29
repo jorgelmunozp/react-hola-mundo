@@ -2,6 +2,8 @@
 
 Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
 
+***
+
 ## Description
 
 This project consists of the development of a Hello World application 
