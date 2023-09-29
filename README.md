@@ -1,10 +1,12 @@
-# Hola Mundo React App
+# Hola Mundo | React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/).
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This project consists of the development of a Hello World application 
+
+It was developed with JavaScript in React Js
 
 ### `npm start`
 
