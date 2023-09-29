@@ -1,6 +1,6 @@
 # Hola Mundo | React App
 
-Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/).
+Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
 
 ## Description
 
@@ -8,9 +8,9 @@ This project consists of the development of a Hello World application
 
 It was developed with JavaScript in React Js
 
-### `npm start`
+### `npx create-react-app my-app`
 
-Runs the app in the development mode.\
+Create a new app
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
