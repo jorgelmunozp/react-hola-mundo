@@ -11,7 +11,10 @@ It was developed with JavaScript in React Js
 ### `Process`
 
 1. Create a new app\
-Use command: npx create-react-app my-app
+Use command: 
+```bash
+npx create-react-app my-app
+```
 
 2. Edit App.js\
 This file contains the main content
