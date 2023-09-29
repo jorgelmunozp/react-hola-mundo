@@ -1,11 +1,11 @@
-<h1 align="center" style="color:#a5d6ff !important"> Hola Mundo | React App </h1>
-
-Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
+<h1 align="center"> Hola Mundo | React App </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-f1e05a">
   <img src="https://img.shields.io/badge/status-close-ff3333">
 </p>
+
+Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
 
 ***
 
