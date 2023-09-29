@@ -18,17 +18,19 @@
 
 This project consists of the development of a Hello World application 
 
-It was developed with JavaScript, Html, and Css in React Js
+* It was developed with JavaScript, Html, and Css in React Js
 
 ### `Process`
 
 1. Create a new app
+
 Use command: 
 ```bash
 npx create-react-app hola-mundo
 ```
 
 2. Edit App.js
+
 This file contains the main content in the function App():
 
 ```python
