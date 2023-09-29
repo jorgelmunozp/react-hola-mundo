@@ -10,11 +10,11 @@ It was developed with JavaScript in React Js
 
 ### `Process`
 
-1. Create a new app
+1. Create a new app\
 Use command: npx create-react-app my-app
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Edit App.js\
+This file contains the main content
 
 ### `npm test`
 
