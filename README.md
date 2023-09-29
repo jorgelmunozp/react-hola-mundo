@@ -2,6 +2,9 @@
 
 Demo: [Hola Mundo](https://jorgelmunozp.github.io/react-hola-mundo/)
 
+### Preview
+![Image text](/docs/hola-mundo.png)
+
 ***
 
 ## Description
@@ -13,13 +16,13 @@ It was developed with JavaScript in React Js
 ### `Process`
 
 1. Create a new app\
-Use command: 
+* Use command: 
 ```bash
 npx create-react-app my-app
 ```
 
 2. Edit App.js\
-This file contains the main content
+* This file contains the main content
 
 ### `npm test`
 
